@@ -10,4 +10,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vafrapl&show_icons=true&locale=en" alt="vafrapl" /></p>
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+<div>
+  <a href="https://github.com/igor0400">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor0400&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor0400&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vafrapl&" alt="vafrapl" /></p>
